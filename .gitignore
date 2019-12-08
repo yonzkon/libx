@@ -1,0 +1,10 @@
+# files
+*.o
+*.a
+*.so*
+*.dylib
+
+# dirs
+build*/
+*install/
+tmp/
